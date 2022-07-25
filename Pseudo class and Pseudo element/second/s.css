@@ -1,0 +1,26 @@
+p:hover{
+    background: black;
+    color: aliceblue;
+}
+p:first-child{
+    background: green;
+    color: darkslateblue;
+}
+p:last-child{
+    background: green;
+    color: darkslateblue; 
+}
+p:nth-child(3){
+    background: green;
+    color: darkslateblue;
+}
+li:nth-child(odd){
+    background: green;
+    color: darkslateblue;
+}
+li:first-of-type{
+    background-color: aqua;
+}
+li:last-of-type{
+    background-color: aqua;
+}

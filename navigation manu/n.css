@@ -1,0 +1,23 @@
+#n{
+    width: 500px;
+    height: 80px;
+    background-color: black;
+    margin: auto;
+}
+#n ul{
+
+}
+#n ul li{
+    list-style-type: none;
+    margin: 20px;
+    float:left ;
+}
+#n ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: aqua;
+    cursor: default;
+}
+#n ul li a:hover{
+    text-decoration: underline;
+}

@@ -1,0 +1,36 @@
+.abc{
+    color: brown;
+    font-size: 3rem;
+}
+p::first-line{
+    color: brown ;
+}
+
+
+
+::selection{
+    color: aqua;
+    background-color: black;
+}
+div::before{
+    content: '';
+    width: 100%;
+    height: 20px;
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+div::after{
+    content: '';
+    width: 100%;
+    height: 20px;
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+input{
+    background-color: black;
+}
+input::placeholder{
+    color: aqua;
+}

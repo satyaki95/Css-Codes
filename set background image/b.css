@@ -1,0 +1,10 @@
+body{
+    background-color: aquamarine;
+    background-image: url("pic.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    
+    background: #fff url("pic2.jpg") no-repeat fixed;
+    color: aliceblue;
+}

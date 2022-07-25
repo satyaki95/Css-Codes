@@ -1,0 +1,13 @@
+#i{
+    background-color: green;
+    width: 200px;
+    margin: 10px;
+    margin-top: 50px;
+    border: solid black;
+    
+}
+#n{
+    background-color: orange;
+    width: 200px;
+    margin: 10px 20px 50px 80px;
+}

@@ -1,0 +1,116 @@
+.card1 , .card2 , .card3 , .card4{
+    width: 300px;
+    margin: 10px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+}
+.css{
+    width: 100%;
+    height: 250px;
+}
+.css-body{
+    padding: 5px;
+    background-color: blue;
+
+}
+.css-titel{
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+   
+
+}
+.css-desc{
+    text-align: justify;
+    line-height: 1;
+    color: aliceblue;
+}
+.card1:hover{
+    box-shadow: 6px 12px 10px lightskyblue;
+}
+
+.html{
+    width: 100%;
+    height: 250px;
+}
+.html-body{
+    padding: 5px;
+    background-color: teal;
+
+}
+.html-titel{
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+
+}
+.html-desc{
+    text-align: justify;
+    line-height: 1;
+    color: aliceblue;
+}
+.card2:hover{
+    box-shadow: 6px 12px 10px lightseagreen;
+}
+
+.java{
+    width: 100%;
+    height: 250px;
+}
+.java-body{
+    padding: 5px;
+    background-color: tomato;
+
+}
+.java-titel{
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+
+}
+.java-desc{
+    text-align: justify;
+    line-height: 1;
+    color: aliceblue;
+}
+.card3:hover{
+    box-shadow: 6px 12px 10px red;
+}
+
+.python{
+    width: 100%;
+    height: 250px;
+}
+.python-body{
+    padding: 5px;
+    background-color: #761f8c;
+
+}
+.python-titel{
+    font-size: 2rem;
+    text-align: center;
+    color:white;
+
+}
+.python-desc{
+    text-align: justify;
+    line-height: 1;
+    color: aliceblue;
+}
+.card4:hover{
+    box-shadow: 6px 12px 10px violet;
+}
+
+.card-contener{
+    box-sizing: border-box;
+    display: flex;
+    background-color: cadetblue;
+    padding: 20px 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: cadetblue;
+}
+

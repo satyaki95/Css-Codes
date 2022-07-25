@@ -1,0 +1,29 @@
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 2px solid black;
+    padding: 5px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr:nth-child(odd){
+    background-color: aqua;
+}
+
+th{
+    background-color: darkgreen;
+    color: whitesmoke;
+}
+
+
+tr:nth-child(even){
+    background-color: gray;
+}
+
+tr:hover{
+    background-color: tomato;
+}

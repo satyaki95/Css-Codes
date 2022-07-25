@@ -1,0 +1,14 @@
+#a{
+    float: left;
+    background-color: green;
+}
+#b{
+    float: right;
+    background-color: orange;
+}
+#c{
+    background-color: yellow;
+}
+#d{
+    clear: both;
+}

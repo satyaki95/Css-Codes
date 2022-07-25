@@ -1,0 +1,20 @@
+.l1{
+    text-align: left;
+}
+.l2{
+    text-align: left;
+}
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 5px 1px brown;
+}
+p{
+    color: blue;
+    text-indent: 50px;
+    text-align: justify;
+    letter-spacing: 1px;
+    line-height: 1.8;
+}

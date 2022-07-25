@@ -1,0 +1,29 @@
+.main{
+
+    width: 80%;
+    margin: 0 auto;
+    
+    background-color: pink;
+    height: 400px;
+
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+
+    position: relative;
+}
+/* h1{
+    width: 200px;
+    margin: 0 auto;
+} */
+.desc{
+    background-color: green;
+    width: 300px;
+    height: 200px;
+
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+
+}

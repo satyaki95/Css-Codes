@@ -1,0 +1,35 @@
+a.m:hover{
+    color: green;
+}
+input{
+    padding: 10px;
+    font-size: 1rem;
+    width: 150px;
+}
+input:hover{
+    background-color: aqua;
+}
+table,tr,td{
+    border: 1px solid  black;
+    padding: 20px;
+    
+  
+}
+tr:nth-child(odd){
+    background-color: brown;
+}
+p.al:hover{
+    color: red;
+}
+p.al::first-letter{
+    color: blue;
+    font-size: 3.5rem;
+    
+}
+p.al::first-line{
+    color: blueviolet;
+    font-size: 3.5rem;
+}
+p.al::before{
+    content: ">";
+}

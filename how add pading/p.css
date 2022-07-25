@@ -1,0 +1,18 @@
+#i{
+    background-color: green;
+    width: 500px;
+    border: solid black;
+    padding: 50px;
+    margin-bottom: 10px;
+}
+#n{
+    background-color: yellow;
+    width: 500px;
+    border: solid black;
+    padding: 50px;
+   
+}
+body{
+    margin: 0;
+    padding: 0;
+}

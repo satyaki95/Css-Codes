@@ -1,0 +1,40 @@
+h1{
+    background-color: green;
+}
+#m{
+    background-color:gold;
+}
+.m1{
+    background-color: blue;
+}
+#m2{
+    background-color: red;
+}
+.m3{
+    background-color: brown;
+}
+*{
+    color: aliceblue;
+}
+h1 , p{
+    font-style: italic;
+}
+div>p{
+    background-color: black;
+}
+div + p{
+    background-color: chartreuse;
+}
+body{
+    background-color: palevioletred;
+    text-align: center;
+}
+div ~ p{
+    background-color: violet;
+}
+div>section>p{
+    background-color: tomato;
+}/*
+div p{
+    color: red;
+}*/
