@@ -1,0 +1,9 @@
+.g-con{
+    display: grid;
+    /* grid-template-columns: auto auto auto auto; */
+    grid-template-columns: repeat(4, 25%);
+}
+.g-con > div{
+    border: solid;
+    padding: 5px;
+}

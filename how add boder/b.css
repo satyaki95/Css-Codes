@@ -1,0 +1,25 @@
+h1{
+    border: 30px green  solid;
+    width: 280px;
+    border-radius: 20px;
+}
+h4{
+    border: 30px green  double;
+    width: 280px;
+    border-radius: 20px;
+}
+h2{
+    border: 5px green;
+    border-width: 5px;
+    border-style: dotted;
+    width: 280px;
+    
+}
+h3{
+    
+    border-left: 5px yellow solid;
+    border-top: 5px red solid;
+    border-right: 5px green solid;
+    border-bottom: 5px blue solid;
+    width: 280px;
+}
